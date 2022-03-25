@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Questions>
+	<skill id="2.A.1.a" title="Reading Comprehension">
+		<element id="PBQ1">Describe a time when you had to learn how to do something at work or elsewhere based on reading on your own.  What was the situation and what did you have to read?</element>
+		<element id="PBQ2">Describe a time that demonstrates your skill level in reading comprehension in a work or school context?  What was the situation and why does it demonstrate a high level of skill?</element>
+		<element id="PBQ3">Describe a time that was very challenging in terms of the need to read and comprehend complicated material at work or school.  What was the situation and why was the reading so challenging?</element>
+		<element id="PBQ4">Describe a time you read up on your own to learn a new topic that was not necessarily required by your job or school.  What was the topic and what did you read?</element>
+		<element id="SIT1">Suppose you were assigned a new task on the job that you did not understand.  How might you use your reading skills to find out information on your own?</element>
+		<element id="SIT2">Suppose there was a work procedure you did not understand.  There was material you could read, or you could ask a coworker.  What are the pros and cons of each approach?</element>
+		<element id="SIT3">Suppose you had to learn how to perform a new work procedure based on reading up on the topic.  How would you evaluate whether you were comprehending what you were reading?</element>
+		<element id="SIT4">Suppose you wanted to learn more about your job or occupation.  How likely would you be to read up about the job as opposed to learn in other ways and why?</element>
+		<element id="EE1">What education or work expedience do you have that required a high level of reading comprehension skill?  Please be specific in explaining why a high level of skill was needed?</element>
+		<element id="EE2">How much reading comprehension skill was required by your past education and work experiences.  Please describe the skill required by each experience.</element>
+		<element id="EE3">What was the most demanding reading comprehension skill required by a past job or educational program?  Why was it so demanding?</element>
+		<element id="EE4">Based on your past education and work experience, what did you learn about how to develop reading comprehension skill?  Please explain.</element>
+	</skill>
+	<skill id="2.A.1.b" title="Active Listening">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.1.c" title="Writing">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.1.d" title="Speaking">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.1.e" title="Mathematics">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.1.f" title="Science">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.2.a" title="Critical Thinking">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.2.b" title="Active Learning">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.2.c" title = "Learning Strategies">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.A.2.d" title="Monitoring">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.1.a" title="Social Perceptiveness">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.1.b" title="Coordination">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.1.c" title="Persuasion">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.1.d" title="Negotiation">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.1.e" title="Instructing">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.1.f" title="Service Orientation">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.2.i" title="Complex Problem Solving">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.a" title="Operations Analysis">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.b" title="Technology Design">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.c" title="Equipment Selection">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.d" title="Installation">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.e" title="Programming">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.g" title="Operations Monitoring">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.h" title="Operation and Control">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.j" title="Equipment Maintenance">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.k" title="Troubleshooting">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.l" title="Repairing">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.3.m" title="Quality Control Analysis">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.4.e" title="Judgement and Decision Making">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.4.g" title="Systems Analysis">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.4.h" title="Systems Evaluation">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.5.a" title="Time Management">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.5.b" title="Management of Financial Resources">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.5.c" title="Management of Material Resources">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+	<skill id="2.B.5.d" title="Management of Personnel Resources">
+		<element id="PBQ1"></element>
+		<element id="PBQ2"></element>
+		<element id="PBQ3"></element>
+		<element id="PBQ4"></element>
+		<element id="SIT1"></element>
+		<element id="SIT2"></element>
+		<element id="SIT3"></element>
+		<element id="SIT4"></element>
+		<element id="EE1"></element>
+		<element id="EE2"></element>
+		<element id="EE3"></element>
+		<element id="EE4"></element>
+	</skill>
+</Questions>

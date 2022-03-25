@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Questions>
+	<skill>
+		<title id="1">Introductory</title>
+		<element id="Intro">Tell me about yourself</element>
+		<element id="Intro">Describe three of your strengths.</element>
+		<element id="Intro">Describe three of your weaknesses.</element>
+		<element id="Intro">Why are you a good fit for this job? </element>
+		<element id="Intro">What are you looking for in a job?</element>
+		<element id="Intro">What did you like and not like about your last job?</element>
+		<element id="Intro">What are your ultimate career goals?</element>
+		<element id="Intro">Where do you want to be in 5 years? </element>
+		<element id="Intro">What did you like about your last supervisor, and what did you dislike?</element>
+		<element id="Intro">What questions do you have about the job? </element>
+	</skill>
+	<skill>
+		<title id="2.A.1.a">Reading Comprehension</title>
+		<element id="PBQ1">Describe a time when you had to learn how to do something at work or elsewhere based on reading on your own.  What was the situation and what did you have to read?</element>
+		<element id="PBQ2">Describe a time that demonstrates your skill level in reading comprehension in a work or school context?  What was the situation and why does it demonstrate a high level of skill?</element>
+		<element id="PBQ3">Describe a time that was very challenging in terms of the need to read and comprehend complicated material at work or school.  What was the situation and why was the reading so challenging?</element>
+		<element id="PBQ4">Describe a time you read up on your own to learn a new topic that was not necessarily required by your job or school.  What was the topic and what did you read?</element>
+		<element id="SIT1">Suppose you were assigned a new task on the job that you did not understand.  How might you use your reading skills to find out information on your own?</element>
+		<element id="SIT2">Suppose there was a work procedure you did not understand.  There was material you could read, or you could ask a coworker.  What are the pros and cons of each approach?</element>
+		<element id="SIT3">Suppose you had to learn how to perform a new work procedure based on reading up on the topic.  How would you evaluate whether you were comprehending what you were reading?</element>
+		<element id="SIT4">Suppose you wanted to learn more about your job or occupation.  How likely would you be to read up about the job as opposed to learn in other ways and why?</element>
+		<element id="EE1">What education or work expedience do you have that required a high level of reading comprehension skill?  Please be specific in explaining why a high level of skill was needed?</element>
+		<element id="EE2">How much reading comprehension skill was required by your past education and work experiences.  Please describe the skill required by each experience.</element>
+		<element id="EE3">What was the most demanding reading comprehension skill required by a past job or educational program?  Why was it so demanding?</element>
+		<element id="EE4">Based on your past education and work experience, what did you learn about how to develop reading comprehension skill?  Please explain.</element>
+	</skill>
+	<skill>
+		<title id="2.A.1.b">Active Listening</title>
+		<element id="PBQ1">Describe a time that best demonstrates your listening skills at work or school.  What was the situation and how did you demonstrate exceptional listening skills?</element>
+		<element id="PBQ2">Describe a time when you had to listen to someone else extremely carefully at work or school in order to understand something complicated.  What was the situation and what listening skills did you use?</element>
+		<element id="PBQ3">Describe a time at work or school that demonstrates you are able to listen for the emotions as well as the content of what someone is trying to explain to you.  What listening skills did you use?</element>
+		<element id="PBQ4">Describe a time when you were having a problem communicating with a coworker or classmate.  What active listening skills did you use to overcome the problem?</element>
+		<element id="SIT1">Suppose you wanted to demonstrate your active listening skills to other people at work.  What would you do to show you are good at listening?</element>
+		<element id="SIT2">Suppose you were instructing someone on how to be a good listener at work.  What good listening techniques would you recommend to them?</element>
+		<element id="SIT3">Suppose you were having difficulty understanding what someone was saying at work.  What listening skills would you use?</element>
+		<element id="SIT4">Suppose you were asking someone at work about a task-related problem, but it was obvious they were not providing all of the relevant information.  What listening skills would you use to encourage them to tell you everything?   </element>
+		<element id="EE1">What education or training do you have that demonstrates you are good at learning based on listening to lectures or instructions, as opposed to learning based on observing, practicing, or other methods?</element>
+		<element id="EE2">What work experience have you had that demonstrates you are good at learning how to perform a job based on listening to the instructions of supervisors or coworkers?  </element>
+		<element id="EE3">What active listening skills have you gained from your education or work experiences?  Describe the specific listening techniques you learned.</element>
+		<element id="EE4">Which of your past education or work experiences required the highest level of listening skills?  What did this teach you about specific listening skills? </element>
+	</skill>
+	<skill>
+		<title id="2.A.1.c">Writing</title>
+		<element id="PBQ1">Describe a time that best illustrates your writing skill either in a job or at school.  What did you write and how did it demonstrate your writing skill?</element>
+		<element id="PBQ2">Describe a time when you had to write a complicated message to a coworker, another student, or someone else.  What did you write and why was it so complicated?  </element>
+		<element id="PBQ3">Describe how much writing you do on a weekly or monthly basis.  What do you write, how often, and how does this demonstrate your writing skill?</element>
+		<element id="PBQ4">Describe examples of writing you have done in past jobs or in school.  What were the assignments and how do they demonstrate your writing skill.</element>
+		<element id="SIT1">Suppose you were assigned the task of writing a report on a project you just completed.  What are the steps you would follow to ensure you were effective in communicating the appropriate information in the report?</element>
+		<element id="SIT2">Suppose you were writing instructions on how to perform a job.  How would you consider needs of the audience in terms of both content and writing style?</element>
+		<element id="SIT3">Suppose you were writing a detailed report at work to be read by other employees.  What rules of good writing would be most important to consider?  </element>
+		<element id="SIT4">Suppose you were proofing a document written by another employee.  What sorts of writing errors would you look for and what other aspects of the writing quality would you check?  </element>
+		<element id="EE1">What educational background do you have related to writing, such as classes on writing, classes that required extensive writing, or degrees relating to writing and communication?  Please list the course titles and any relevant degrees.</element>
+		<element id="EE2">What level of writing skills were required by past jobs?  What were the jobs and what were the writing skill requirements? </element>
+		<element id="EE3">Based on your education and experience, what have you learned about writing skills?  Also, what did you learn about adjusting your writing to the needs of the audience?  Please be specific.  </element>
+		<element id="EE4">Describe how your education and work experience has helped you develop your writing skills.  Please be specific. </element>
+	</skill>
+	<skill>
+		<title id="2.A.1.d">Speaking</title>
+		<element id="PBQ1">Describe a time that best illustrates your ability to explain things to other people either in a job or at school.  What was the situation and how did you demonstrate your ability?</element>
+		<element id="PBQ2">Describe a time you gave a speech to a group of people in either a job or school context.  What was the situation and how did this demonstrate your public speaking skills?</element>
+		<element id="PBQ3">Describe a time you had to explain a very complicated topic or procedure to someone else at work or school.  What was the situation and how did you explain in a way that the complicated topic could be understood?</element>
+		<element id="PBQ4">Describe your best example of when you demonstrated your speaking skills on a job or at school.  What was the situation and what speaking skills did you demonstrate?</element>
+		<element id="SIT1">Suppose you had a job where you had to explain products to customers.  What speaking and other communication techniques would you use?</element>
+		<element id="SIT2">Suppose you were in charge of training new employees.  What speaking and other communication techniques would you use?</element>
+		<element id="SIT3">Suppose you had to give a presentation to a large group at work.  How would you prepare and deliver such a presentation to ensure that you are speaking clearly and everyone will understand what you are saying?</element>
+		<element id="SIT4">Suppose you had a job where you had to communicate with a wide range of other people who varied in their education level.  How would you adjust your communication style depending on their level of education?</element>
+		<element id="EE1">What educational background do you have related to speaking, such as classes in speech, communication, foreign languages, acting, debating, etc.?  Please list the course titles and any relevant degrees.</element>
+		<element id="EE2">What level of speaking skills were required by past jobs?  What were the jobs and what were the speaking skill requirements? </element>
+		<element id="EE3">Based on your education and experience, what have you learned about speaking skills, meaning talking to others to convey information effectively?  Please be specific.  </element>
+		<element id="EE4">Describe how your education and work experience has helped you develop your speaking and communication skills.  Please be specific. </element>
+	</skill>
+	<skill>
+		<title id="2.A.1.e">Mathematics</title>
+		<element id="PBQ1">Describe a time when you had to use mathematics to solve a problem at work or in a school project.  What was the problem and what type of math did you use?</element>
+		<element id="PBQ2">Describe the most complicated mathematics problem you ever solved at work or in a school project.  What was the problem and why was the math so complicated?</element>
+		<element id="PBQ3">Describe a time when you were able to make an improvement to a job or a school project by applying math of some type.  What was the situation and what type of math did you use.</element>
+		<element id="PBQ4">Describe the last time you learned a new mathematical procedure or computerized tool, either at work or in school.  Describe the situation and the mathematical procedure or tool used.  </element>
+		<element id="SIT1">Suppose you were applying for a job and the interviewer asked you to describe your level of math skill?  What would you say and what evidence would you citeoffer?  </element>
+		<element id="SIT2">Suppose you were trying to solve a problem at work that required mathematical calculations.  What computerized tools might you use and what are their advantages?</element>
+		<element id="SIT3">Suppose your supervisor asked you if you had any skill in maintaining databases at work.  How would you describe your skills and what would you use as evidence?</element>
+		<element id="SIT4">Suppose your boss in the job you are applying for asked you to help improve performance using scientific principles. How might you use scientific principles to improve performance?</element>
+		<element id="EE1">What courses in mathematics and related areas did you take in school?  Please list as many by topic as you can recall (e.g., algebra, geometry, etc.).</element>
+		<element id="EE2">What work experience do you have on a job that involved applying scientific methods or findings?  What was the job and what was the science applied?  </element>
+		<element id="EE3">Describe your experience with science when you were in school.  What did you like the best and the least and why?</element>
+		<element id="EE4">What education or work experiences do you have involving maintaining databases of various sorts?  Describe the types of databases and your role in maintaining them. </element>
+	</skill>
+	<skill>
+		<title id="2.A.1.f">Science</title>
+		<element id="PBQ1">Describe a time you used scientific methods or findings on a job or in school.  What was the situation and what was the scientific method or finding?</element>
+		<element id="PBQ2">Describe a time when you used science of some type on a job?  What was the science and what was your involvement? </element>
+		<element id="PBQ3">Describe a time when you tried to prove something on a job or at school by using a scientific method.  What was the situation and what was the method?  </element>
+		<element id="PBQ4">Describe a time you were involved in a research study.  What was the situation and what was your involvement?</element>
+		<element id="SIT1">Suppose you were tying to determine the cause of a problem on the job.  What scientific principles might you use?</element>
+		<element id="SIT2">Suppose you wanted to conduct an experiment to prove a point.  How would you hypothetically set up an experiment?  What would be involved?</element>
+		<element id="SIT3">Suppose you were trying to prove a point on a job or other situation.  What methods could you use? </element>
+		<element id="SIT4">Suppose you were applying for a job and the interviewer asked how you might use scientific principles to improve performance.  Pick a hypothetical job and explain how you might use a scientific principle to improve performance. </element>
+		<element id="EE1">What education do you have in the sciences?  Please list the courses, as well as degrees.</element>
+		<element id="EE2">What work experience have you on a job that involved applying scientific methods or findings?  What was the job and what was the science applied?  </element>
+		<element id="EE3">Describe your experience with science when you were in school?  What did you like the best and the least and why?</element>
+		<element id="EE4">What sciences have you been exposed to in your past jobs?  What were the sciences and the past jobs?</element>
+	</skill>
+	<skill>
+		<title id="2.A.2.a">Critical Thinking</title>
+		<element id="PBQ1">Describe a time from a past job or school setting where you had to use logic to identify the strengths and weaknesses of solutions to a problem.  What was the problem and how did you use logic? </element>
+		<element id="PBQ2">Describe a past job or school experience where you demonstrated your critical thinking skills.  What was the situation and what did you do?</element>
+		<element id="PBQ3">Describe your best example of using logical reasoning to identify the pros and cons of a decision.  What was the situation and how did you demonstrate logical reasoning skills?</element>
+		<element id="PBQ4">Describe the most challenging problem you ever solved at work or school by using critical thinking.  What was the situation and how does it demonstrate your critical reasoning skills?</element>
+		<element id="SIT1">Suppose you were trying to solve a complex problem at work.  How would you use your critical reasoning skills?  </element>
+		<element id="SIT2">Suppose you were trying to solve a complex problem at work.  What steps would you follow to apply your critical reasoning skills?  </element>
+		<element id="SIT3">Suppose you were confronted with several possible solutions to a difficult problem at work.  How would you use your critical thinking skills to determine the best solution? </element>
+		<element id="SIT4">Suppose you are up for a promotion at work and your boss says that critical thinking is a crucial characteristic of the job. How would you demonstrate to your boss that you are a critical thinker?</element>
+		<element id="EE1">What education or work experience have you had that developed your critical thinking skills?  Please also explain how or why.</element>
+		<element id="EE2">Which of your education or work experiences was the most demanding in terms of critical thinking skills?  What critical thinking skills did you learn from the experience? </element>
+		<element id="EE3">What did you learn from your past education and work experience about critical thinking skills?  Please be specific.</element>
+		<element id="EE4">What did you study in school or learn on a job that taught you critical thinking skills, defined as using logic and reasoning to identify strengths and weaknesses of an argument or solution to a problem?  Also explain why or how. </element>
+	</skill>
+	<skill>
+		<title id="2.A.2.b">Active Learning</title>
+		<element id="PBQ1">Describe a time when you had to learn something new on your own in order to perform a job or school task.  What was the situation and what did you do to learn the information? </element>
+		<element id="PBQ2">Describe your best example where you had to learn something complex on your own by seeking out information in order to solve a problem.  What was the situation, what did you do, and why was it so complex?</element>
+		<element id="PBQ3">Describe a time when you had to figure out the implications of new information in order to solve a problem at work or school.  What was the situation, what made it complex, and what did you do? </element>
+		<element id="PBQ4">Describe a time when you had to make a complicated decision that required you to learn new information?  What was the decision, what was the information you had to learn, and what did you do?</element>
+		<element id="SIT1">Suppose you had to solve a problem at work that required you to learn new complicated information on your own.  How would you go about learning the new information and ensuring you understood it? </element>
+		<element id="SIT2">Suppose you had to make a decision at work that involved learning an extensive amount of new information.  How would you go about learning so much information and ensuring you remembered it?</element>
+		<element id="SIT3">Suppose you had to determine the implications of a change in work procedures for how a job is performed and whether the change will cause any future problems.  What would you do?  </element>
+		<element id="SIT4">Suppose you had a problem at work that was extremely complex and you had to demonstrate your learning skills.  What learning skills would you use and why?</element>
+		<element id="EE1">What education or training have you had that would demonstrate your ability to learn?</element>
+		<element id="EE2">What work experience have you had that would demonstrate your ability to learn?</element>
+		<element id="EE3">What education or work experiences have you had that demonstrate you can learn new information to solve problems on your own without the help of others?</element>
+		<element id="EE4">What education or work experiences have you had that demonstrate you can make decisions that involve learning the implications of new complicated information? </element>
+	</skill>
+	<skill>
+		<title id="2.A.2.c">Learning Strategies</title>
+		<element id="PBQ1">Describe a time when you had to train a coworker or a classmate.  What teaching techniques did you use and why?</element>
+		<element id="PBQ2">Describe a time in a past job or school context where you were most impressed with the training or instructional methods.  What were they and why were you impressed?</element>
+		<element id="PBQ3">Describe times in your past that show you can learn from a range of teaching methods.  Describe several experiences learning from different methods in either school or work.</element>
+		<element id="PBQ4">Describe times in your past when you trained or assisted in training other workers or students.  What instructional methods did you use and why?</element>
+		<element id="SIT1">Suppose you were training a coworker for the job to which you are applying.  What training techniques would you use and why?</element>
+		<element id="SIT2">Suppose you were asked to help your supervisor develop a training program for new employees.  What are the various types of training techniques that could be used and their pros and cons?</element>
+		<element id="SIT3">Suppose you were training coworkers who varied widely in their learning skills, so you decided to break them up into groups so you could use different training techniques with each.  What training techniques would you use for each group and why?</element>
+		<element id="SIT4">Suppose you were selecting training programs or classes for yourself, and they varied in terms of the instructions methods used.  What instructional methods do you prefer and not prefer and why?</element>
+		<element id="EE1">What experiences do you have training coworkers or classmates in a work or educational context?  </element>
+		<element id="EE2">Describe your experiences with different types of instructional methods such as lectures, readings, demonstrations, hands-on practice, etc., in either your education or work experience.</element>
+		<element id="EE3">What have you learned from your education and work experience about when different instructional methods are best, such as lectures, readings, demonstrations, hands-on practice, etc.</element>
+		<element id="EE4">Based on your education and work experience, what types of instructional methods work best for you and why.  Example methods include lectures, readings, demonstrations, hands-on practice, etc.</element>
+	</skill>
+	<skill>
+		<title id="2.A.2.d">Monitoring</title>
+		<element id="PBQ1">Describe a time when your job or school project required you to monitor the performance of other people to make adjustments to your work.  What was the situation and what adjustments were necessary?</element>
+		<element id="PBQ2">Describe a time when your job or school project required you to monitor the performance of other people to evaluate their work.  What was the situation and how did you provide them feedback?</element>
+		<element id="PBQ3">Describe a time when your job required you to monitor a work process and make adjustments as necessary.  What was the process and what types of adjustments did you make?</element>
+		<element id="PBQ4">Describe a time when you had to monitor and evaluate the progress of other people as part of your job or school assignment.  What was the situation and your level of skill in monitoring/evaluating other people. </element>
+		<element id="SIT1">Suppose you were assigned the task of monitoring and evaluating the work progress of other employees.  How would you go about that assignment?</element>
+		<element id="SIT2">Suppose your supervisor asked you to monitor and evaluate the work process in your department and then make recommendations for improvement.  How would you go about that assignment? </element>
+		<element id="SIT3">Suppose you were asked by your supervisor to monitor and assess the work of a new employee, so the employee could receive feedback for improvement.  How would you go about that assignment?</element>
+		<element id="SIT4">Suppose you were new on a job and wanted to monitor and evaluate your own job performance to make improvements.  How would you go about that? </element>
+		<element id="EE1">What education or work experience do you have in monitoring/assessing people or processes to make improvements. Please explain in some detail.</element>
+		<element id="EE2">What monitoring skills have you developed based on you education or work experience?  Monitoring skills refer to observing, tracking, or recording and then evaluating performance to make improvements to people or processes.  Please explain in some detail.</element>
+		<element id="EE3">Based on your education or work experience, what have you learned about how to monitor and evaluate the performance of other people?  What monitoring skills did you develop as a consequence?</element>
+		<element id="EE4">Based on your education or work experience, what have you learned about how to monitor and evaluate your own performance to make improvements?   What key lessons did you learn about monitoring skills?</element>
+	</skill>
+	<skill>
+		<title id="2.B.1.a">Social Perceptiveness</title>
+		<element id="PBQ1">Describe a time at work or in school that best illustrates your skill in perceiving and understanding the emotional reactions of other people.  What was the situation and how does it illustrate your skill?</element>
+		<element id="PBQ2">Describe a time at work or school where your skill in understanding the emotional reactions of other people helped you improve the situation.  What was the situation and the emotional reactions, and what did you do? </element>
+		<element id="PBQ3">Describe a time when a coworker or classmate had a negative emotional reaction to you.  How did you manage to improve the situation? </element>
+		<element id="PBQ4">Describe a time when understanding emotional reactions helped you resolve disagreements or conflict between coworkers or classmates?  What was the situation, how did you come to understand the emotional reactions of those involved, and how did your social perceptiveness help?</element>
+		<element id="SIT1">Suppose you suspected that a coworker was having an emotional reaction to you?  How would you use that information to change your own behavior to improve the situation? </element>
+		<element id="SIT2">How would you determine if a coworker was behaving in a given way because of an emotional reaction to the situation?  What would you look for and what would you do with the information?</element>
+		<element id="SIT3">Suppose you sensed that your work group was having emotional reactions to each other that was hurting team performance.  How would you use that information to improve the situation?</element>
+		<element id="SIT4">Suppose you were new to a work team and wanted to understand their emotional reactions to each other and to you.  What would you look for and how would you interpret it?</element>
+		<element id="EE1">What experience or education do you have that helped you build social perceptiveness skills, meaning being aware of the emotional reactions of other people and how it influences what they do?  Please be specific. </element>
+		<element id="EE2">What experience or education do you have that trained you to perceive other people’s emotional reactions and how that influences their behavior?  Please be specific.  </element>
+		<element id="EE3">Based on your education or work experience, what have you learned about the importance of being aware of the emotional reactions of other people?  What skills did you develop as a consequence?</element>
+		<element id="EE4">Describe your skills in perceiving the emotional reactions of other people and adjusting your behavior based on that information.  Use your education and work experience to illustrate.  </element>
+	</skill>
+	<skill>
+		<title id="2.B.1.b">Coordination</title>
+		<element id="PBQ1">Describe a time on a past job or in school where you had to show great skill in adjusting your work to the work of other people.  What was the situation, what were the adjustments, and how do they demonstrate your skill? </element>
+		<element id="PBQ2">Describe a time on a past job or in school when coordinating with teammates was very important and very challenging.  What was the situation and the coordination required, why was it challenging, and what did you do? </element>
+		<element id="PBQ3">Describe a time when you had great difficulties coordinating your work with other people.  What was the situation, why was it challenging, and what adjustments did you make? </element>
+		<element id="PBQ4">Describe your best example from work or school that demonstrates you are very good at coordinating with other people.  What was the situation and how does it demonstrate your coordination skill? </element>
+		<element id="SIT1">Suppose you had to coordinate your work with the work of other people.  What would you do?  Be specific or give examples. </element>
+		<element id="SIT2">Suppose you were put in charge of coordinating the work of several people on a project.  How would you go about coordinating the work?  </element>
+		<element id="SIT3">Suppose you were having difficulties coordinating your work with the work of other people.  What would you do to try to improve the coordination? </element>
+		<element id="SIT4">Suppose you were trying to improve the coordination of you work with other people.  What factors would you consider? </element>
+		<element id="EE1">What work or school experience do you have where coordinating with other people was very important?  Explain the experiences in some detail.</element>
+		<element id="EE2">What education or work experience do you have that helped you build your skills coordinating work with other people?  Please explain in some detail.</element>
+		<element id="EE3">What coordinating skills have you developed based on your education or work experience?  Coordinating skills refer to adjusting your actions in relation to the actions of other people.  Please explain in some detail.</element>
+		<element id="EE4">Based on your education or work experience, what have you learned about coordinating your work with the work of other people?  What coordination skills did you develop as a consequence?</element>
+	</skill>
+	<skill>
+		<title id="2.B.1.c">Persuasion</title>
+		<element id="PBQ1">Describe a time when you had to persuade coworkers, classmates, or customers to change their minds.  What was the situation and what persuasion techniques did you use? </element>
+		<element id="PBQ2">Describe a time when you had to persuade someone to change their mind or behavior and they were strongly opposed.  What was the situation, what made it difficult, and how did you persuade them?</element>
+		<element id="PBQ3">Describe your best example from work or school demonstrating that you have persuasion skills, meaning you successfully convinced others to change their minds or behavior.  What was the situation, what did you do, and how does it demonstrate effective persuasion skills?</element>
+		<element id="PBQ4">When you have had to persuade other employees or classmates, what persuasion techniques did you use and why?</element>
+		<element id="SIT1">Suppose you were trying to persuade coworkers to change their minds on an important issue at work.  What persuasion techniques would you use and why?</element>
+		<element id="SIT2">Suppose you were having a disagreement with a coworker about how to perform the job.  What persuasion techniques would you use and why?</element>
+		<element id="SIT3">Suppose you were trying to persuade a customer to buy a product.  What persuasion techniques would you use and why?</element>
+		<element id="SIT4">Suppose you were trying to persuade your supervisors to change a decision that they had made.  What persuasion techniques would you use and why?</element>
+		<element id="EE1">What education or work experience have you had that involved persuading other people to change their minds or behavior?  Please be specific as to the jobs, the issues, and what you did.</element>
+		<element id="EE2">What education or work experience do you have that helped you build skills in persuading other people to change their minds or behaviors?  Please explain in some detail.</element>
+		<element id="EE3">What persuasion skills have you developed based on your education or work experience?  Please explain in some detail.</element>
+		<element id="EE4">Based on your education or work experience, what have you learned about persuading other people?  What skills did you develop as a consequence?</element>
+	</skill>
+	<skill>
+		<title id="2.B.1.d">Negotiation</title>
+		<element id="PBQ1">Describe a time when you had to negotiate differences between coworkers or classmates.  What was the situation and what negotiation techniques did you use? </element>
+		<element id="PBQ2">Describe a time when you helped with a difficult negotiation at work or school where there were strong opinions and conflict.  What was the situation, what made it difficult, and how did you help negotiate a resolution?</element>
+		<element id="PBQ3">Describe your best example from work or school demonstrating that you have negotiation skills, meaning bringing others together and reconciling differences.  What was the situation, what did you negotiate, and how does it demonstrate good negotiation skills?</element>
+		<element id="PBQ4">When you have had to negotiate with other employees or classmates, what negotiation techniques did you use and why?  </element>
+		<element id="SIT1">Suppose you were trying to negotiate between two coworkers who were in conflict about how to perform the job.  What negotiation techniques would you use and why?</element>
+		<element id="SIT2">Suppose you were having a disagreement with a coworker about how to perform the job.  What negotiation techniques would you use and why?</element>
+		<element id="SIT3">Suppose you were trying to negotiate between two coworkers who did not get along.  What negotiation techniques would you use and why?</element>
+		<element id="SIT4">Suppose you did not get along with another coworker and it was making your job difficult to perform.  What negotiation techniques would you use to resolve the conflict and why?</element>
+		<element id="EE1">What education or work experience have you had that involved negotiating between other people who were having disagreements?  Please be specific as to the jobs, the disagreements, and your role.</element>
+		<element id="EE2">What education or work experience do you have that helped you build skills in negotiation to reconcile differences between other people?  Please explain in some detail.</element>
+		<element id="EE3">What negotiation skills have you developed based on your education or work experience?  Please explain in some detail.</element>
+		<element id="EE4">Based on your education or work experience, what have you learned about negotiating differences between people?  What skills did you develop as a consequence?</element>
+	</skill>
+	<skill>
+		<title id="2.B.1.e">Instructing</title>
+		<element id="PBQ1">Describe examples from work or school where you taught teammates.  What were the situations, what did you teach, and how did you do so?</element>
+		<element id="PBQ2">Describe a time when you taught a coworker or classmate something very complicated.  What was it, why was it complicated, and how did you teach it so it was understood?</element>
+		<element id="PBQ3">Describe your best example from work or school demonstrating that you have teaching skills.  What was the situation, what did you teach, and how does it demonstrate good teaching skills?</element>
+		<element id="PBQ4">When you have taught other employees or classmates something related to the job or school, what teaching techniques did you use and why?  </element>
+		<element id="SIT1">Suppose you were asked to teach coworkers a class on how to perform a task on the job that you knew well.  How would you design the training program and why?</element>
+		<element id="SIT2">Suppose you were asked by your supervisor to train new hires.  What would you include in the training and what training techniques would you use?</element>
+		<element id="SIT3">Suppose you were asked to teach a coworker a very complicated or difficult task.  What training techniques would you use and why do you think they would be effective?  </element>
+		<element id="SIT4">Suppose you were teaching customers about a product of your organization.  What would you include in the training and what training techniques would you use?</element>
+		<element id="EE1">What education or work experience have you had that involved training other people?  Please be specific as to the classes, jobs, or material trained.</element>
+		<element id="EE2">What education or work experience do you have that helped you build your skills in training or instructing other people?  Please explain in some detail.</element>
+		<element id="EE3">What training skills have you developed based on your education or work experience?  Please explain in some detail.</element>
+		<element id="EE4">Based on your education or work experience, what have you learned about training, teaching, or instructing other people?  What skills did you develop as a consequence?</element>
+	</skill>
+	<skill>
+		<title id="2.B.1.f">Service Orientation</title>
+		<element id="PBQ1">Describe a time on a past job where you had to provide customer service to other people, meaning looking for ways to help them.  What was the situation and what did you do?</element>
+		<element id="PBQ2">Describe your best example of providing service to other people, either in a job, school, or other context.  What was the situation and what did you do that demonstrated service? </element>
+		<element id="PBQ3">Describe a time on a past job, school, or other context that demonstrates you have customer service skill.  What was the situation and what did you do that demonstrates customer service skill?</element>
+		<element id="PBQ4">Describe a time that you found it most difficult to provide customer service to other people.  What was the situation, why was it difficult to provide service, and what did you do?  </element>
+		<element id="SIT1">Suppose you had a job in a customer service role, what would you do to provide the highest level of customer service?  </element>
+		<element id="SIT2">Suppose you had to provide customer service to a very demanding customer.  What customer service techniques would you use?</element>
+		<element id="SIT3">Suppose you were asked to teach another employee how to give excellent customer service.  What techniques would you teach the employee and why?</element>
+		<element id="SIT4">Suppose your boss was considering you for a promotion into a customer-facing role. What would you say to your boss to show you had customer service skills?</element>
+		<element id="EE1">What work, school, or other life experiences do you have that involved providing customer service to other people?  Please be specific.</element>
+		<element id="EE2">What customer service skills have you developed based on your work, school, or other life experiences?  What are the skills and what are the experiences that helped you develop these skills?</element>
+		<element id="EE3">Most jobs and many other experiences in life involve providing service to other people.  Please summarize your service experience and the skills you have developed.</element>
+		<element id="EE4">Based on your education or work experience, what have you learned about customer service?  What skills did you develop as a consequence?</element>
+	</skill>
+	<skill>
+		<title id="2.B.2.i">Complex Problem Solving</title>
+		<element id="PBQ1">Describe a time from work or school that best demonstrates your problem-solving skills.  What was the situation and what specific problem-solving skills did you demonstrate?</element>
+		<element id="PBQ2">Describe the most challenging problem you ever solved at work or school.  What was the problem and how does this demonstrate your problem solving skills?</element>
+		<element id="PBQ3">Describe a time from work or school where you identified a complex problem, gathered relevant information, evaluated alternative courses of action, and then implemented a solution.</element>
+		<element id="PBQ4">Describe your best example from past work or school where you solved a complex problem.  Describe the specific steps in detail you followed to solve the problem.</element>
+		<element id="SIT1">Suppose your supervisor at work assigned you to solve a complex problem.  Explain the process you would follow to solve the problem in as much detail as possible.  </element>
+		<element id="SIT2">Suppose you were trying to solve a complex problem at work.  How would you go about identifying the relevant information and evaluating alternative solutions? </element>
+		<element id="SIT3">Suppose you encountered a complex problem at work.  Describe in as much detail as possible the specific steps you would follow to solve the problem. </element>
+		<element id="SIT4">Suppose you were trying to solve a complex problem at the type of job you for which you are applying.  What are the most important considerations in general and why?</element>
+		<element id="EE1">What did you learn from your past education and work experience about how to solve complex problems?  Please be specific.</element>
+		<element id="EE2">What education or work experience have you had that demonstrates you are skilled at solving complex problems?  </element>
+		<element id="EE3">Which of your education or work experiences was the most demanding in terms of complex problem solving?  What problem solving skills did you learn from the experience? </element>
+		<element id="EE4">Please list three aspects of your past education or work experience that would be evidence of your skills in solving complex problems. </element>
+	</skill>
+	<skill>
+		<title id="2.B.3.a">Operations Analysis</title>
+		<element id="PBQ1">Describe a time when you had to analyze product requirements to create a design.  What was the product and what was the resulting design?</element>
+		<element id="PBQ2">Describe a time when you analyzed customer needs to create a design for your product or service.  What was the product or service and what was the resulting design?</element>
+		<element id="PBQ3">Describe a time when the product or service you or your team provided was not fully meeting the requirements.  What was the situation and what did you do? </element>
+		<element id="PBQ4">Describe a time when the product or service you or your team provided was not fully meeting customer needs.  What was the situation and what did you do?</element>
+		<element id="SIT1">Suppose your job was to help improve the product or service of your company.  How would you go about determining the needed improvements?</element>
+		<element id="SIT2">Suppose you were asked to analyze customer needs in order to improve the product or service of your company.  How would you go about determining customer needs?</element>
+		<element id="SIT3">Suppose you were redesigning your company’s product or service.  What information would you consider?</element>
+		<element id="SIT4">Suppose you were redesigning your company’s product or service.  What process would you follow?</element>
+		<element id="EE1">What education, training, or work experience do you have in the design of products or services? </element>
+		<element id="EE2">What opportunities have you had in past jobs or educational settings to learn about the design of products and services.  Please be specific.</element>
+		<element id="EE3">Based on your education and experience, what skills do you have in analyzing needs, requirements, or other information for designing products of services? Cite specific experiences.</element>
+		<element id="EE4">What specific educational or work experiences have you had that shows you are knowledge of how to design products or services? </element>
+	</skill>
+	<skill>
+		<title id="2.B.3.b">Technology Design</title>
+		<element id="PBQ1">Describe a time when you had to adapt a piece of equipment or technology in order to get it to work.  What was the situation and the equipment or technology, and what did you do?</element>
+		<element id="PBQ2">Describe a time when you had to adapt a piece of equipment or technology to use it for a purpose for which it was not originally designed.  What was the situation and the equipment or technology, and what did you do?</element>
+		<element id="PBQ3">Describe a time when you had to create a piece of equipment or technology to accomplish a task.  What was the situation and the equipment or technology, and what did you do?</element>
+		<element id="PBQ4">Describe a time when you had to use a piece of equipment or technology that had been adapted by someone else for a purpose for which it was not originally designed.  What was the situation and the equipment or technology, and how did you determine it worked and was safe before using it?</element>
+		<element id="SIT1">Suppose you had to adapt a piece of equipment or technology in order to get it to work.  What process would you follow?</element>
+		<element id="SIT2">Suppose you had to adapt a piece of equipment or technology to use it for a purpose for which it was not originally designed.  What issues would you consider?</element>
+		<element id="SIT3">Suppose you had to design a new piece of equipment or technology to accomplish a task.  What are the factors you would consider or process you would follow?</element>
+		<element id="SIT4">Suppose you were redesigning a piece of equipment or technology because it was not fully serving user needs.  What are the factors you would consider or process you would follow?</element>
+		<element id="EE1">What education or work experience do you have related to designing equipment or technology?</element>
+		<element id="EE2">Based on your past jobs and education, what experience do you have designing or adapting equipment or technology to serve user needs?  Cite the experiences and describe the nature of the equipment or technology you designed.</element>
+		<element id="EE3">List all the types of equipment or technology you have designed or adapted based on your past work, education, or other experiences.  Also, indicate what you did specifically.</element>
+		<element id="EE4">Based on your past jobs and education, what skills do you have designing or adapting equipment or technology to serve user needs?  What specific jobs or education would you cite as evidence?</element>
+	</skill>
+	<skill>
+		<title id="2.B.3.c">Equipment Selection</title>
+		<element id="PBQ1">Describe a time in the past when you had to determine the tools and equipment to do a task.  What was the situation and what were the tools and equipment?</element>
+		<element id="PBQ2">Describe a time in the past when you had to determine the tools and equipment to do a task.  How did you go about evaluating the necessary tools?</element>
+		<element id="PBQ3">Describe a time in the past when you had to perform a task but you did not know the tools or equipment you would need.  What did you do?</element>
+		<element id="PBQ4">Describe a time in the past when you did not have all the tools or equipment you needed to do a task.  What did you do?</element>
+		<element id="SIT1">Suppose you were determining the tools and equipment to do a job.  What process or steps would you follow to make sure you included everything?</element>
+		<element id="SIT2">Suppose you were asked to determine the tools and equipment to do a job.  What information would you gather?  </element>
+		<element id="SIT3">Suppose you did not have all the tools and equipment you needed to do a job.  What are some potential creative solutions to ensuring you can still complete the job?</element>
+		<element id="SIT4">Suppose you were in charge of helping select an expensive piece of equipment for a company.  What factors would you consider and what process would you follow? </element>
+		<element id="EE1">What experience do you have determining the tools and equipment needed for projects?  Please describe the experiences and the tools and equipment.</element>
+		<element id="EE2">What experience do you have in selecting equipment?  Please describe the equipment and the factors you considered.  It can be equipment of any type.  </element>
+		<element id="EE3">What education, training, or work experience do you have related to tool and equipment selection?    </element>
+		<element id="EE4">What experience do you have that shows you are good at tool and equipment selection?  What were the experiences and what were the tools and equipment?  It can be equipment or tools of any type.</element>
+	</skill>
+	<skill>
+		<title id="2.B.3.d">Installation</title>
+		<element id="PBQ1">Describe a time when you installed or helped install a piece of equipment.  What was the equipment and what was your role?</element>
+		<element id="PBQ2">Describe a time when you installed or helped install computer software that was a very complicated procedure.  What was the program, what made it complicated, and what did you have to do?</element>
+		<element id="PBQ3">Describe a time when you installed or helped install a piece of equipment.  What did you learn about equipment installation?</element>
+		<element id="PBQ4">Describe times when you installed or helped install computer software.  What did you learn about installing computer software?</element>
+		<element id="SIT1">Suppose you were assigned the task of installing a piece of equipment on the job.  What are the various types of information that might be important?  </element>
+		<element id="SIT2">Suppose you were assigned the task of installing computer software on the job.  What are some of the types of information that might be important?  </element>
+		<element id="SIT3">Suppose the computer software you just installed was not working properly.  What would you do?</element>
+		<element id="SIT4">Suppose you just installed a piece of equipment and it was not working properly.  What factors would you consider and what steps would you follow to troubleshoot the problem?</element>
+		<element id="EE1">What jobs, education, or training have you had on how to install equipment?  It can be any type of equipment.  </element>
+		<element id="EE2">What jobs, education, or training have you had on how to install computer software?  </element>
+		<element id="EE3">What experience or education do you have that trained you to be skilled at installing computer software. Please be specific.</element>
+		<element id="EE4">Based on your past work or school experience, what lessons have you learning about installing equipment or computer software?  Cite specific examples of experiences.</element>
+	</skill>
+	<skill>
+		<title id="2.B.3.e">Programming</title>
+		<element id="PBQ1">Describe a time in a past job or in school where you had to write or modify a computer program.  What was the situation and the program, and what did you do?</element>
+		<element id="PBQ2">Describe a time in a past job or school where you had to learn how to write or modify a computer program.  What was the situation and the program, and how did you go about learning the program?</element>
+		<element id="PBQ3">Describe a time in a past job or school where you had to figure out a problem with a computer program.  What was the situation and the program, what was the problem, and how did you figure it out?</element>
+		<element id="PBQ4">Describe a time in a past job or school where you had to teach others how to use a computer program.  What was the situation and the program, and how did you go about teaching how to use the program?</element>
+		<element id="SIT1">Suppose you had to write or modify a computer program on a job.  What steps would you follow?</element>
+		<element id="SIT2">Suppose you had to learn how to write or modify a computer program on the job.  How would you go about learning the programming?</element>
+		<element id="SIT3">Suppose you had to figure out a problem with a computer program on a job.  What steps would you follow? </element>
+		<element id="SIT4">Suppose you had to teach someone else on a job how to use a computer program.  How would you go about it?</element>
+		<element id="EE1">Based on your education and work experience, list all the computer programs you have learned how to use and how well you know them (e.g., basic skill level, intermediate, or advanced).</element>
+		<element id="EE2">What experience or education do you have that trained you to be skilled at programming. Please be specific.</element>
+		<element id="EE3">What lessons have you learned about figuring out problems with computer programs?  Cite specific examples from your past education and work experience. </element>
+		<element id="EE4">What formal education, training, or work experience have you had on computer programming?  List the experiences and the programming languages you learned.  </element>
+	</skill>
+	<skill>
+		<title id="2.B.3.g">Operations Monitoring</title>
+		<element id="PBQ1">Describe a time when you had to monitor the operation of a complex machine.  What was the machine and why was it so complex?</element>
+		<element id="PBQ2">Describe a time when you had to monitor a machine that was very difficult to monitor.  What was the machine and why was it so difficult to monitor? </element>
+		<element id="PBQ3">Describe a time when you had to monitor a machine that involved watching gauges, dials, and other indicators.  What was the machine and what did the gauges and dials show? </element>
+		<element id="PBQ4">Describe a time when you had to learn how to monitor the operation of a machine that involved gauges and dials.  What was the machine and how did you learn to monitor it? </element>
+		<element id="SIT1">Suppose you were assigned the task of monitoring a piece of complicated or expensive machine on the job.  How would you go about learning how to do it properly?  </element>
+		<element id="SIT2">Suppose you needed to learn how to monitor a complicated machine by reading gauges and dials.  How would you ensure you fully understood it?</element>
+		<element id="SIT3">Suppose your job involved monitoring a complicated machine on the job.  What are some of the most important factors in monitoring machines effectively?</element>
+		<element id="SIT4">Suppose your job involved monitoring a machine by watching gauges and dials.  How would you remain alert so that you did not miss any important changes?     </element>
+		<element id="EE1">What education, training, or work experience do you have in monitoring machinery?  It can be machinery of any type.  Describe the experiences and the machine.</element>
+		<element id="EE2">What education, training, or work experience do you have in operating machinery that involved monitoring gauges and dials other than a car?  It can be machinery of any type.  Describe the experiences and the operation of the machine.</element>
+		<element id="EE3">Based on your past work or school experience, what lessons do you have learning about monitoring complex machines?  Cite specific examples of experiences.</element>
+		<element id="EE4">What experience do you have that shows you are good at monitoring machines?  What were the experiences and what was the machine?  It can be machines of any type.  </element>
+	</skill>
+	<skill>
+		<title id="2.B.3.h">Operation and Control</title>
+		<element id="PBQ1">Describe a time when you had to operate a complex piece of equipment.  What was the equipment and why was it so complex?</element>
+		<element id="PBQ2">Describe a time when you had great difficulty operating a piece of equipment.  What was the equipment and why was it so difficult to operate? </element>
+		<element id="PBQ3">Describe a time when you had to operate complex computer software.  What was the computer software and why was it so complex?</element>
+		<element id="PBQ4">Describe a time when you had great difficulty operating a computer software program.  What was the computer software program and why was it so difficult to operate?</element>
+		<element id="SIT1">Suppose you were assigned the task of operating a piece of complicated or expensive equipment on the job.  How would you go about learning how to do it properly?  </element>
+		<element id="SIT2">Suppose you needed to learn how to operate a complicated computer software program on the job.  How would you go about it?</element>
+		<element id="SIT3">Suppose your job involved operating a piece of complicated or expensive equipment on the job.  What are some of the most important factors in operating equipment well?  </element>
+		<element id="SIT4">Suppose your job involved operating a complicated computer software program on the job.  What are some of the most important factors in operating software to its fullest potential?</element>
+		<element id="EE1">What education, training, or work experience do you have in operating equipment?  It can be equipment of any type.  Describe the experiences and the equipment.</element>
+		<element id="EE2">What education, training, or work experience do you have in operating computer software?  Describe the experiences and the software.</element>
+		<element id="EE3">Based on your past work or school experience, what lessons have you learned about operating computer software?  Cite specific examples of experiences.</element>
+		<element id="EE4">What experience do you have that shows you are good at operating equipment.  What were the experiences and what was the equipment?  It can be equipment of any type.  </element>
+	</skill>
+	<skill>
+		<title id="2.B.3.j">Equipment Maintenance</title>
+		<element id="PBQ1">Describe a time in the past where you were in charge of maintaining equipment.  What was the equipment and what did you do?</element>
+		<element id="PBQ2">Describe a time in the past when you had to figure out the maintenance required on equipment.  What was the equipment and how did you figure out the maintenance required? </element>
+		<element id="PBQ3">What is the most complicated maintenance procedure you ever performed on equipment?  What was the equipment and what procedure did you perform?</element>
+		<element id="PBQ4">What types of routine maintenance on equipment have you performed in the past?  List the types of equipment and the nature of the maintenance. </element>
+		<element id="SIT1">Suppose you were in charge of maintaining equipment as part of your job.  How would you determine the equipment maintenance required?</element>
+		<element id="SIT2">Suppose a piece of equipment was not working very well. What steps would you follow to analyze and fix the problem?</element>
+		<element id="SIT3">Suppose you were setting up a routine equipment maintenance program in a future job.  What steps would you follow?</element>
+		<element id="SIT4">Suppose you did not know how to perform the routine maintenance on the equipment in your job.  What would you do? </element>
+		<element id="EE1">What experience do you have performing routine maintenance on equipment?  Please describe the equipment and the maintenance you performed.</element>
+		<element id="EE2">Based on your education or experience, what lessons have you learned about routine maintenance of equipment?  Cite examples of experiences and the lessons you learned from them.</element>
+		<element id="EE3">What education, training, or work experience do you have related to equipment maintenance?    </element>
+		<element id="EE4">What experience do you have that shows you are good at equipment maintenance?  What were the experiences and what was the maintenance?</element>
+	</skill>
+	<skill>
+		<title id="2.B.3.k">Troubleshooting</title>
+		<element id="PBQ1">Describe a time when you had to troubleshoot a problem.  What was the situation and the problem, and what did you do? </element>
+		<element id="PBQ2">Describe a time when you determined the cause of an operating error and decided how to resolve it.  What was the situation and the error, and what did you do to resolve the error?</element>
+		<element id="PBQ3">Describe your best example of troubleshooting an operating error or other problem.  What was the situation and the problem, and what did you do?</element>
+		<element id="PBQ4">Describe a time when you tried to troubleshoot a problem but, despite all your efforts, you were unable to do so.  What was the situation and the problem, and what did you try?</element>
+		<element id="SIT1">Suppose you had to troubleshoot a problem.  What process would you follow? </element>
+		<element id="SIT2">Suppose you had to determine the cause of an operating error and decide what to do about it.  What are the questions you would ask or the steps you would follow?</element>
+		<element id="SIT3">Suppose you had to teach another employee about how to conduct troubleshooting.  How would you go about it?</element>
+		<element id="SIT4">Suppose you had to troubleshoot an unfamiliar problem and did not know how.  What would you do?</element>
+		<element id="EE1">What education or work experience do you have related to troubleshooting operating errors in equipment, technology, or systems?  List the degrees or jobs and the equipment or technology. </element>
+		<element id="EE2">Based on your past jobs and education, list the specific experiences you have had troubleshooting operating errors in equipment, technology, or systems.  </element>
+		<element id="EE3">Based on your past jobs and education, what skills do you have troubleshooting operating errors in equipment, technology, or systems.  What specific jobs or education would you cite as evidence?</element>
+		<element id="EE4">What lessons have you learned about troubleshooting problems with equipment, technology, or systems?  Cite specific examples from your past education and work experience.</element>
+	</skill>
+	<skill>
+		<title id="2.B.3.l">Repairing</title>
+		<element id="PBQ1">Describe your best example of when you repaired a machine or other piece of equipment.  What was the machine or equipment and what repair did you perform?</element>
+		<element id="PBQ2">Describe a time in your past when you had to make a repair to a machine or piece of equipment, and you had to learn how to do it.  What was the situation and how did you learn to make the repair?</element>
+		<element id="PBQ3">Describe a time in your past when you had to make a repair to a machine or piece of equipment, but you did not have all the best tools.  What was the situation and how did you find a solution?</element>
+		<element id="PBQ4">Describe a time in your past where you had to learn how to make a complicated repair to a machine or piece of equipment.  What was the situation, why was is complicated, and how did you learn it? </element>
+		<element id="SIT1">Suppose you had to make a repair to a machine or piece of equipment, what process would you follow to make sure you did it correctly?</element>
+		<element id="SIT2">Suppose you were making a repair to a machine or piece of equipment, but you did not have the best tools.  How would you improvise to find a solution?  Give examples to illustrate. </element>
+		<element id="SIT3">Suppose you had to make a repair to a machine or piece of equipment, but you did not know exactly how to do it.  How would you go about learning the procedure?</element>
+		<element id="SIT4">Suppose you were teaching a coworker how to make a repair to a machine or piece of equipment, what process would you follow and how would you ensure your coworker learned? </element>
+		<element id="EE1">What education or work experience have you had in repairing machines or equipment?  </element>
+		<element id="EE2">Based on your past jobs and education, what experience do you have repairing machines or equipment?  Cite the experiences and describe the nature of the repairs.</element>
+		<element id="EE3">List all the types of machines or equipment you have repaired based on your past work, education, or other experiences.  Also, indicate the nature of the repairs. </element>
+		<element id="EE4">Based on your past jobs, education, or other experiences, what skills do you have in repairing machines or other equipment?  Cite specific experiences as evidence. </element>
+	</skill>
+	<skill>
+		<title id="2.B.3.m">Quality Control Analysis</title>
+		<element id="PBQ1">Describe a time on a past job or school setting where you were in charge of inspecting the quality of a product, service, or work performed.  What was the situation and what were you inspecting?</element>
+		<element id="PBQ2">Describe a time on a past job or school setting where you were inspecting the quality of a product, service, or work performed.  What was the situation and how did you go about inspecting?</element>
+		<element id="PBQ3">Describe a time on a past job or school setting where quality of the work performed was extremely important.  What was the setting and how did you inspect the quality to ensure it was high?</element>
+		<element id="PBQ4">Describe a time on a past job or school setting where you taught someone else how to inspect the quality of a product, service, or work performed.  What was the situation and how did you teach quality inspection?</element>
+		<element id="SIT1">Suppose you were in charge of inspecting the quality of the products you were producing on a job.  What types of factors would be normally considered?</element>
+		<element id="SIT2">Suppose you were in charge of inspecting the quality of the products you were producing on a job.  How would you learn the inspection process?</element>
+		<element id="SIT3">Suppose you were in charge of inspecting the quality of the products you were producing on a job.  How would you ensure the quality was at the highest level?</element>
+		<element id="SIT4">Suppose your job required you to evaluate the quality of products or services your unit develops or provides. What factors are important in addition to quality?</element>
+		<element id="EE1">Based on your past jobs and education, what experience do you have inspecting the quality of a product, service, or work performed?  Cite the experiences and the nature of the inspection process.</element>
+		<element id="EE2">What experience or education do you have that trained you to be skilled at programming. Please be specific.</element>
+		<element id="EE3">What lessons have you learned about inspecting the quality of a product, service, or work performed?  Cite specific examples from your past education and work experience. </element>
+		<element id="EE4">Describe your educational and work experiences that have helped you learn how to inspect the quality of products, services, or work.  </element>
+	</skill>
+	<skill>
+		<title id="2.B.4.e">Judgment and Decision Making</title>
+		<element id="PBQ1">Describe a time on a past job or in school that best demonstrates your judgment and decision making skill.  What was the situation, what did you do, and how does it demonstrate your skill? </element>
+		<element id="PBQ2">Describe a time on a past job or in school that required a high level of judgment or decision making skill.  What was the situation, why did it require a high level of skill, and what did you do?</element>
+		<element id="PBQ3">Describe a time on a past job or in school where you had to make an extremely difficult judgment or decision.  What was the situation, why was it difficult, and what did you do?</element>
+		<element id="PBQ4">When you have had to make an extremely difficult judgment or decision in the past, how did you go about it?  Describe specific illustrations from your past. </element>
+		<element id="SIT1">Suppose you were assigned to help make an important decision at work.  How would you go about it?</element>
+		<element id="SIT2">Suppose you had an important decision at work that involved many pros and cons.  How would you weight or evaluate the various considerations to make a decision?</element>
+		<element id="SIT3">Suppose you had to make a “judgment call” at work, meaning there was incomplete information and the correct decision was unclear.  How would you go about making the judgment?</element>
+		<element id="SIT4">Suppose your boss asked you to help them make an important decision that would affect the entire unit. What steps would you take and why?</element>
+		<element id="EE1">What experience do you have from past jobs or school settings involving making important decisions? What were the jobs or school settings and what were the decisions?</element>
+		<element id="EE2">What experience or education do you have that trained you to be skilled at making good judgements and decisions. Please be specific.</element>
+		<element id="EE3">Based on your education or work experience, what have you learned about how to make good decisions?  What skills did you develop as a consequence?</element>
+		<element id="EE4">What is the most important decision you ever made in a work, school, or other setting?  Describe the decision and the setting, and especially what you learned about decision making.</element>
+	</skill>
+	<skill>
+		<title id="2.B.4.g">Systems Analysis</title>
+		<element id="PBQ1">Describe a time on a past job or in school where you were in charge of analyzing how well a procedure was working.  What was the procedure and how did you analyze it? </element>
+		<element id="PBQ2">Describe a time where you analyzed how well an organization was working.  This can be from experiences at work, school, or other organization.  What was the organization and how did you analyze it?</element>
+		<element id="PBQ3">Describe a time on a past job or in school where the process you and others had to follow was not working very well.  What was the process, what was not working, and what improvements would have helped?</element>
+		<element id="PBQ4">Describe a time on a past job or in school where you made an improvement in how things were done.  What was the situation and what was your recommended improvement?</element>
+		<element id="SIT1">Suppose you were asked to improve a work procedure.  How would you go about analyzing the current procedure?</element>
+		<element id="SIT2">Suppose a procedure at work was not working very well.  What steps would you follow to analyze and improve the situation? </element>
+		<element id="SIT3">Suppose you were new on a job and trying to figure out why a job is performed the way it is.  What questions would you ask and what other information would you seek? </element>
+		<element id="SIT4">Suppose you were trying to make improvements to your job.  What factors would you consider?  </element>
+		<element id="EE1">What experience do you have from past jobs or school settings involving analyzing a procedure or a program?  What were the jobs or school settings and what were the procedures or programs?</element>
+		<element id="EE2">Based on your education or work experience, what have you learned about analyzing systems like procedures and programs?  What skills did you develop as a consequence?</element>
+		<element id="EE3">What experience or education do you have that trained you to be skilled at analyzing systems and how changes can improve outcomes. Please be specific.</element>
+		<element id="EE4">What experience do you have from past jobs or school settings that shows you are good at analyzing the way things are done and making improvements?  What were the jobs or school settings and what were the improvements you made?</element>
+	</skill>
+	<skill>
+		<title id="2.B.4.h">Systems Evaluation</title>
+		<element id="PBQ1">Describe a time on a past job or in school where you were asked to evaluate how well a procedure was working.  What was the procedure and what indicators of performance did you consider? </element>
+		<element id="PBQ2">Describe a time where you evaluated how well an organization was working.  This can be from experiences at work, school, or other organization.  What was the organization and what did you consider to evaluate it?</element>
+		<element id="PBQ3">Describe a time on a past job or in school where the process you had to follow was not working very well.  What was the process, how did you know it was not working, and what improvements did you make?</element>
+		<element id="PBQ4">Describe a time on a past job or in school where you made an improvement to a task.  What was the situation and what was your recommended improvement?</element>
+		<element id="SIT1">Suppose you were asked to evaluate a work procedure.  What factors would you consider in evaluating the current procedure?</element>
+		<element id="SIT2">Suppose a procedure at work was not working very well.  How would you demonstrate that it was not working well so that you could justify making changes? </element>
+		<element id="SIT3">Suppose your boss asked you to help evaluate how well the current unit is performing.  What steps would you take and why?</element>
+		<element id="SIT4">Suppose you were trying to make improvements to your job.  What are all the potential factors you might consider to evaluate how well the current job was working?  </element>
+		<element id="EE1">What experience do you have from past jobs or school settings involving evaluating a procedure or a program?  What were the jobs or school settings and what were the procedures or programs?</element>
+		<element id="EE2">Based on your education or work experience, what have you learned about evaluating systems like procedures and programs?  What skills did you develop as a consequence?</element>
+		<element id="EE3">What experience or education do you have that trained you to be skilled at evaluating systems. Please be specific.</element>
+		<element id="EE4">What experience do you have from past jobs or school settings that shows you are good at evaluating the way things are done?  What were the jobs or school settings and what were your evaluations?</element>
+	</skill>
+	<skill>
+		<title id="2.B.5.a">Time Management</title>
+		<element id="PBQ1">Describe an example of when you had to manage your time very carefully in order to get everything done.  What was the situation and what did you do?</element>
+		<element id="PBQ2">Describe an example from your past that shows you are good at managing your time effectively.  What was the situation and how did you manage your time? </element>
+		<element id="PBQ3">Describe an example from your past when you had to help manage the time of other people.  What was the situation and what did you do?</element>
+		<element id="PBQ4">Describe examples from your past that show you are good at getting a lot of work done for the amount of time spent.  What were the situations and how did you do it?</element>
+		<element id="SIT1">Suppose you had to manage your time very carefully in order to get everything done.  What would you do?</element>
+		<element id="SIT2">Suppose you were asked in a job interview about your time management skills?  What would you say and what examples would you give? </element>
+		<element id="SIT3">Suppose you had to help manage the time of other people.  What would you do to manage their time efficiently?</element>
+		<element id="SIT4">Suppose you had to get a lot of work done for the amount of time you had on a regular basis at work.  What techniques would you use?</element>
+		<element id="EE1">How did your education or work experience help you learn about time management?  List the degrees or jobs and how they are relevant. </element>
+		<element id="EE2">What past job or educational experiences most challenged your time management skills?  Describe the experiences and why they were challenging. </element>
+		<element id="EE3">Based on your past jobs and education, what skills do you have in time management?  What specific jobs or education would you cite as evidence?</element>
+		<element id="EE4">What lessons have you learned about time management?  Cite specific examples from your past education and work experience.</element>
+	</skill>
+	<skill>
+		<title id="2.B.5.b">Management of Financial Resources</title>
+		<element id="PBQ1">Describe a time when you had to manage the budget for a project or other situation.  What was the project or situation and the budget, and how did you manage it? </element>
+		<element id="PBQ2">Describe a time when you had to account for the expenditures for a project or other situation.  What was the project or situation, and how did you track expenditures?</element>
+		<element id="PBQ3">Describe a time when you had to plan your expenses to ensure you had enough money for everything.  What was the situation and how did you plan your expenses?</element>
+		<element id="PBQ4">Describe your best example of money management.  What was the situation and how did you display money management skills?</element>
+		<element id="SIT1">Suppose you had to determine a budget for a project.  How would you go about it?</element>
+		<element id="SIT2">Suppose you had to set up a process for determining how money would be spent on a project or other work situation.  What process would you set up?</element>
+		<element id="SIT3">Suppose you had to set up a process for tracking expenses for a project or other work situation.  What process would you set up?</element>
+		<element id="SIT4">Suppose you were in charge of managing the financial resources for the work to be done on a job.  What are all the factors you would consider?</element>
+		<element id="EE1">What education or work experience do you have related to managing financial resources, such as budgeting, spending, and tracking expenses?  List the degrees or jobs and how they are relevant. </element>
+		<element id="EE2">Based on your past jobs and education, list the specific experiences you have had managing financial resources, such as planning spending and tracking expenses?</element>
+		<element id="EE3">Based on your past jobs and education, what skills do you have managing financial resources, such as budgeting, planning spending, and tracking expenses.  What specific jobs or education would you cite as evidence?</element>
+		<element id="EE4">What lessons have you learned about managing financial resources, such as planning spending and tracking expenses?  Cite specific examples from your past education and work experience.</element>
+	</skill>
+	<skill>
+		<title id="2.B.5.c">Management of Material Resources</title>
+		<element id="PBQ1">Describe a time when you had to plan all the equipment, materials, or facilities needed to do a job or project.  What was the situation and how did you plan to ensure you did not miss anything? </element>
+		<element id="PBQ2">Describe a time when you were planning the equipment or materials for a project, but found you did not have everything needed.  What was the situation and how did you get by? </element>
+		<element id="PBQ3">Describe a time when you were in charge of overseeing the use of equipment, materials, or facilities to do a job or project.  What was the situation and how did you oversee the use of these resources? </element>
+		<element id="PBQ4">Describe a time when you were in charge of overseeing the use of equipment, materials, or facilities to do a project, but a problem occurred that you had to manage.  What was the situation and the problem, and what did you do?</element>
+		<element id="SIT1">Suppose you had to plan all the equipment, materials, or facilities needed to do a job or project.  What process would you follow to make sure you did not miss anything?</element>
+		<element id="SIT2">Suppose you had to plan the equipment or materials for a project, but found you did not have everything needed.  What would you do?</element>
+		<element id="SIT3">Suppose you had to oversee the equipment or materials for a project.  How would you make sure everything was used for the intended purpose and accounted for properly?  </element>
+		<element id="SIT4">Suppose you were setting up a tracking system to record the equipment or materials used for a project.  What system would you set up? </element>
+		<element id="EE1">What education or work experience do you have related to managing material resources, such as obtaining or overseeing the use of equipment, facilities, or materials needed to do work?  List the degrees or jobs and how they are relevant. </element>
+		<element id="EE2">Based on your past jobs and education, list the specific experiences you have had managing material resources, such as obtaining or overseeing the use of equipment, facilities, or materials needed to do work.  </element>
+		<element id="EE3">Based on your past jobs and education, what skills do you have managing material resources, such as obtaining or overseeing the use of equipment, facilities, or materials needed to do work?  What specific jobs or education would you cite as evidence?</element>
+		<element id="EE4">What lessons have you learned about managing material resources, such as obtaining or overseeing the use of equipment, facilities, or materials needed to do work?  Cite specific examples from your past education and work experience.</element>
+	</skill>
+	<skill>
+		<title id="2.B.5.d">Management of Personnel Resources</title>
+		<element id="PBQ1">Describe a time when you had to supervise the work of other people in a job or school setting.  What was your supervisory style? </element>
+		<element id="PBQ2">Describe a time when you had to motivate other people to work in a job or school setting.  What motivational techniques did you use? </element>
+		<element id="PBQ3">Describe a time when you had to select the best people to perform a task in a job or school setting.  How did you go about identifying the best people and recruiting them to help? </element>
+		<element id="PBQ4">Describe a time when you had to lead a team on a project, but they did not get along very well.  What did you do to promote group harmony? </element>
+		<element id="SIT1">Suppose you were put in charge of supervising the work of other people on a job.  What would be your supervisory style?  </element>
+		<element id="SIT2">Suppose you were the supervisor of a group at work.  How would you motivate them to work hard?  What motivational techniques would you use? </element>
+		<element id="SIT3">Suppose you were put in charge of selecting the best people to perform a job.  How would you go about identifying the best people and recruiting them to help? </element>
+		<element id="SIT4">Suppose you were leading a team on a project at work, but they did not get along very well.  What would you do to promote group harmony? </element>
+		<element id="EE1">What education or work experience do you have related to supervising other people?  List the degrees or jobs and how they are relevant. </element>
+		<element id="EE2">Based on your past jobs and education, list the specific experiences you have had supervising other people.  Also, include the number of people supervised. </element>
+		<element id="EE3">Based on your past jobs and education, what skills do you have managing personnel resources, such as selecting, supervising, or motivating other people?  What specific jobs or education would you cite as evidence?</element>
+		<element id="EE4">What lessons have you learned about managing personnel resources, such as selecting, supervising, or motivating other people?  Cite specific examples from your past education and work experience.</element>
+	</skill>
+</Questions>
